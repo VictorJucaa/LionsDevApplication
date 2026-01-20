@@ -6,6 +6,7 @@ I chose Holy Grail Layout because of its simplicity combined with its versatilit
 The page was built entirely using only HTML and CSS.
 Some requirements were: the creation of at least one button that referenced an external page; the use of company visual elements; and responsive design.
 With that, the solutions were: the instagram button leads to the company's official page in the app; the logo leads to the challenge's home page; in the header menu, the "Schedule a Visit" button directs to an internal page where there is a form to be sent with some requested data; In the footer two buttons were placed, one for the challenge repository and the other for my email; the responsive design was due to the "flexbox" functionality; And the visuals were taken from Google.
+One last observation: the company logo button on the homepage leads to the company's official website, while pressing it while on the "Schedule a Visit" and "Catalog" pages takes the user to the challenge's homepage.
 
 PT-BR - 
 
@@ -14,3 +15,4 @@ Trouxe, então, o Holy Grail Layout por conta da sua simplicidade aliada a sua v
 A página foi toda construída apenas com HTML e CSS.
 Alguns requisitos foram: a criação de, ao menos, um botão que referenciava uma página externa; o uso de elementos visuais da empresa; e um desing responsivo. 
 Com isso, as soluções foram: o botão do instagram leva à página oficial da empresa no aplicativo; a logo leva à pagina inicial do desfio; no menu do cabeçalho, o botão "Agende uma Visita" direciona para uma página interna onde há um formulário a ser enviado com alguns dados pedidos; no rodapé foram colocados dois botões, um para o repositório do desafio e outro para meu email; o design responsivo ficou por conta da funcionalidade "flexbox"; e os elementos visuais foram retirados do google.
+Uma última observação: o botão da logo da empresa na página inicial leva ao site oficial da empresa, enquanto se for pressionado enquanto estiver nas páginas de "Agende Uma Visita" e "Catálogo", leva o usuário à página inicial do desafio. 
